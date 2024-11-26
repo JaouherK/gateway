@@ -67,7 +67,7 @@
     "passport-github2": "^0.1.11",
     "passport-local": "^1.0.0",
     "reflect-metadata": "^0.1.13",
-    "sequelize": "^5.22.3",
+    "sequelize": "^6.6.5",
     "sequelize-typescript": "^0.6.6-beta.1",
     "snyk": "^1.685.0",
     "swagger-jsdoc": "^4.0.0",
