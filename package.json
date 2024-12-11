@@ -50,7 +50,7 @@
     "debug": "~2.6.9",
     "dotenv": "^6.0.0",
     "error-handler": "^1.0.0",
-    "express": "^4.16.3",
+    "express": "^4.21.2",
     "express-brute": "^1.0.1",
     "express-brute-sequelize": "0.0.8",
     "express-http-proxy": "^1.6.2",
